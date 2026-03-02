@@ -1,0 +1,81 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2024-2026 Wealth Innovation AI LLC. All rights reserved.
+
+NOTICE: This software and all associated documentation, source code,
+object code, and related materials (collectively, the "Software") are
+the exclusive property of Wealth Innovation AI LLC. ("Owner").
+
+1. OWNERSHIP AND RESTRICTIONS
+
+   The Software is proprietary and confidential. No part of the Software
+   may be reproduced, distributed, transmitted, displayed, published,
+   adapted, or otherwise used in any form or by any means without the
+   prior written permission of the Owner.
+
+   Unauthorized copying, modification, distribution, public display,
+   or creation of derivative works of the Software, in whole or in part,
+   is strictly prohibited.
+
+2. GRANT OF LICENSE
+
+   No license, right, or interest in the Software is granted to any
+   party except as explicitly set forth in a separate, signed written
+   agreement with the Owner.
+
+3. THIRD-PARTY COMPONENTS
+
+   This Software may incorporate or depend upon third-party libraries,
+   frameworks, packages, and other components ("Third-Party Components")
+   that are subject to their own respective license terms. Such
+   Third-Party Components are NOT covered by this license.
+
+   a) Third-Party Components remain the intellectual property of their
+      respective authors and licensors.
+
+   b) The applicable license terms for each Third-Party Component are
+      documented in the Software Bill of Materials (SBOM) and/or in
+      the respective package manifests (e.g., package.json, bun.lockb,
+      Cargo.toml, or equivalent dependency files).
+
+   c) The Owner makes no claim of ownership over Third-Party Components
+      and does not grant any rights to such components beyond those
+      already granted by their original licenses.
+
+   d) Users and licensees are responsible for complying with the license
+      terms of all Third-Party Components included in or referenced by
+      the Software.
+
+4. CONFIDENTIALITY
+
+   The Software contains trade secrets and proprietary information of
+   the Owner. Any person or entity with access to the Software must
+   maintain its confidentiality and must not disclose any part of the
+   Software to third parties without the Owner's prior written consent.
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE
+   SOFTWARE.
+
+7. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with
+   the laws of the State of Washington, United States, without regard
+   to its conflicts of law provisions.
+
+8. CONTACT
+
+   For licensing inquiries: legal@wealthinnovation.ai
+
+---
+Wealth Innovation AI LLC.
+wealthinnovation.ai
